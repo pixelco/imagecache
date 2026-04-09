@@ -1,8 +1,5 @@
-> This package is **abandoned** and will no longer be maintained.
 
-# ~~Pixelco Image Cache~~ (Abandoned)
-
-Pixelco Image Cache extends the [Pixelco Image Class](https://github.com/Intervention/image/) package to be capable of image caching functionality.
+Pixelco Image Cache extends the [Intervention Image Class](https://github.com/Intervention/image/) package to be capable of image caching functionality.
 
 The library uses the [Illuminate/Cache](https://github.com/illuminate/cache/) package and can be easily integrated into the [Laravel Framework](https://laravel.com/). Based on your Laravel cache configuration you are able to choose between Filesystem, Database, Memcached or Redis for the temporary buffer store.
 
