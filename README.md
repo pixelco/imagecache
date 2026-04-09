@@ -14,7 +14,7 @@ You can install this package quickly and easily with Composer.
 
 Require the package via Composer:
 
-    $ composer require Pixelco/imagecache
+    $ composer require pixelco/imagecache
 
 Now you are able to require the `vendor/autoload.php` file to PSR-4 autoload the library.
 
