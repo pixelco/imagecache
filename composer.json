@@ -19,7 +19,7 @@
     ],
     "require": {
         "php": "~7.2|~8",
-        "pixelco/image": "~2.2",
+        "Intervention/image": "~2.2",
         "illuminate/cache": "^5.5|~6|~7|~8|~9|~10",
         "illuminate/filesystem": "^5.5|~6|~7|~8|~9|~10",
         "nesbot/carbon": "^2.39",
@@ -30,12 +30,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Pixelco\\Image\\": "src/Pixelco/Image"
+            "Intervention\\Image\\": "src/Intervention/Image"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Pixelco\\Image\\Test\\": "tests/"
+            "Intervention\\Image\\Test\\": "tests/"
         }
     },
     "minimum-stability": "stable"
